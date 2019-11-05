@@ -10,6 +10,7 @@ gem 'sinatra'
 
 group :test do
 gem 'capybara'
+gem 'dotenv'
 gem 'rspec'
 gem 'rspec-sinatra'
 gem 'rubocop'
