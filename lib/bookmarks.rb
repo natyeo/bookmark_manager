@@ -1,8 +1,11 @@
+require 'pg'
+
 class Bookmarks
 
   def self.all
-    ["https://makers.tech",
-     "https://w3schools.com/html"]
+    conn = PG::Connection.open(:dbname => 'bookmark_manager')
+    result = conn.exec('select * from bookmarks')
+    result.map do |bookmark| bookmark['url'] end
   end
 
 end
