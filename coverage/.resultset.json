@@ -3,23 +3,58 @@
     "coverage": {
       "/Users/student/Makers/bookmark_manager/spec/bookmarks_spec.rb": [
         1,
-        null,
-        1,
         1,
         null,
         1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        null,
         1,
         null,
         1,
         1,
         1,
+        1,
+        1,
+        1,
         null,
+        null,
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null
+      ],
+      "/Users/student/Makers/bookmark_manager/spec/database_helpers.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        null
+      ],
+      "/Users/student/Makers/bookmark_manager/spec/features/adding_bookmarks_spec.rb": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
         null,
         null
       ],
@@ -48,6 +83,6 @@
         null
       ]
     },
-    "timestamp": 1573050561
+    "timestamp": 1573144322
   }
 }
